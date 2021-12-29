@@ -1,0 +1,16 @@
+{
+  "name": "PWA Starter Pack",
+  "short_name": "PWA",
+  "description": "PWA Starter Pack",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F0F4FA",
+  "theme_color": "#264774",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
